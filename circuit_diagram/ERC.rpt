@@ -1,0 +1,28 @@
+ERC レポート (2023/10/11 10:43:31, エンコーディング UTF8)
+
+***** シート /
+[power_pin_not_driven]: 電源入力ピンが電源出力ピンによって駆動されていない
+    ; Severity: error
+    @(68.5800 mm, 39.3700 mm): Symbol U1 ピン 1 [Vin, 入力, ライン]
+[power_pin_not_driven]: 電源入力ピンが電源出力ピンによって駆動されていない
+    ; Severity: error
+    @(142.2400 mm, 106.6800 mm): Symbol #PWR038 非表示ピン 1 [+5V, 電源入力, ライン]
+[power_pin_not_driven]: 電源入力ピンが電源出力ピンによって駆動されていない
+    ; Severity: error
+    @(347.9800 mm, 129.5400 mm): Symbol U6 ピン 64 [VDD, 電源入力, ライン]
+[power_pin_not_driven]: 電源入力ピンが電源出力ピンによって駆動されていない
+    ; Severity: error
+    @(350.5200 mm, 129.5400 mm): Symbol U6 ピン 13 [VDDA, 電源入力, ライン]
+[pin_to_pin]: ピンのタイプ 電源出力 と 電源出力 が接続されています
+    ; Severity: error
+    @(325.1200 mm, 203.2000 mm): Symbol U6 ピン 47 [VCAP_2, 電源出力, ライン]
+    @(309.8800 mm, 198.1200 mm): Symbol #FLG01 ピン 1 [pwr, 電源出力, ライン]
+[pin_to_pin]: ピンのタイプ 電源出力 と 電源出力 が接続されています
+    ; Severity: error
+    @(325.1200 mm, 200.6600 mm): Symbol U6 ピン 31 [VCAP_1, 電源出力, ライン]
+    @(297.1800 mm, 198.1200 mm): Symbol #FLG02 ピン 1 [pwr, 電源出力, ライン]
+[power_pin_not_driven]: 電源入力ピンが電源出力ピンによって駆動されていない
+    ; Severity: error
+    @(345.4400 mm, 223.5200 mm): Symbol U6 ピン 12 [VSSA, 電源入力, ライン]
+
+ ** ERC メッセージ: 7  エラー 7  警告 0
